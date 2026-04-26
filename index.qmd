@@ -7,13 +7,12 @@ layout: full
 # CATER.
 ### Advancing the Frontiers of <br>Technology Education Research.
 
-[Explore Our Network]{.btn-cater role="button"}
+[Join the Network]{.btn-cater role="button"}
 :::
 :::
 
-::: {.container style="margin-top: -50px;"}
+::: {.container style="margin-top: -60px; margin-bottom: 80px;"}
 ::: {layout-ncol="3"}
-
 ::: {.agenda-card}
 ::: {.icon-box}
 <i class="bi bi-cpu"></i>
@@ -37,13 +36,24 @@ Turning complex data into actionable insights for the public and policymakers.
 ### Accelerator
 A collaborative engine for rapid, multi-site data collection and peer support.
 :::
-
 :::
 :::
 
----
+::: {.column-screen .impact-strip}
+::: {.container}
+[Our Impact]{.accent-text}
+## Bridging Technology and Pedagogy
+CATER operates as a global collaborative network. We move beyond isolated studies to create scalable, evidence-based frameworks for the digital age.
 
-## The Vision
-CATER isn't just a research center; it's a **collaborative network**. We believe that the intersection of technology and pedagogy requires a new kind of infrastructure—one that is open, rigorous, and rapid.
+::: {layout-ncol="3" .mt-5}
+### 15+
+Active Projects
 
-[Read the Full Manifesto →](about.qmd)
+### 50+
+Network Members
+
+### 10k+
+Data Points Collected
+:::
+:::
+:::

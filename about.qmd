@@ -1,36 +1,62 @@
 ---
-title: "About the Center"
-subtitle: "Bridging the gap between technological potential and educational reality."
-page-layout: article
+layout: full
 ---
 
-## Our Core Philosophies
+::: {.column-screen .hero-mini}
+::: {.container}
+# About the Center
+:::
+:::
 
-To understand CATER, you must understand our three-pronged approach to the future of education.
+::: {.container .agenda-section}
+## Our Core Agendas
 
-### 1. Infrastructure Development
-> "We don't just use tools; we build them."
+::: {.row .mt-5}
+::: {.col-md-4}
+[01. Infrastructure]{.accent-text}
+:::
+::: {.col-md-8}
+### Building the Foundation
+Research in technology-education is only as good as its measurement. CATER focuses on the development of **validated psychometric scales** and **open-source methodological tools** that allow researchers to capture the nuance of digital learning.
+:::
+:::
 
-Research in tech-education is often limited by the quality of the measurement. We focus on developing:
-* **Validated Scales** for digital literacy.
-* **Open-source software** for classroom data analysis.
-* **Methodological frameworks** for longitudinal tech studies.
+<hr class="my-5" style="opacity: 0.1;">
 
-### 2. Public Translation
-Research that stays in a PDF is research that hasn't finished its job. Our translation wing works to:
-* Create **evidence-based toolkits** for teachers.
-* Advise on **national curriculum** standards.
-* Produce **accessible media** explaining tech impacts on the developing brain.
+::: {.row}
+::: {.col-md-4}
+[02. Translation]{.accent-text}
+:::
+::: {.col-md-8}
+### From Data to Action
+We believe that research is incomplete until it is accessible. Our translation wing develops **teacher-ready toolkits** and provides evidence-based briefings for **policy stakeholders**, ensuring that the "Frontiers of Research" are reachable by the classroom.
+:::
+:::
 
-### 3. The Research Accelerator
-Inspired by the *Psychological Science Accelerator*, we provide the "CATER Network"—a way for researchers to:
-* Crowdsource data collection across different countries.
-* Find peer-reviewers who understand the tech-pedagogy niche.
-* Share code and datasets in a secure, ethical environment.
+<hr class="my-5" style="opacity: 0.1;">
 
----
+::: {.row}
+::: {.col-md-4}
+[03. Accelerator]{.accent-text}
+:::
+::: {.col-md-8}
+### The CATER Network
+Inspired by large-scale collaborative models, our Accelerator supports rapid, multi-site data collection. By pooling resources and expertise, our members can execute high-powered studies that would be impossible for a single lab.
+:::
+:::
 
-### Leadership
-**Jeff Buckley, PhD** *Director of CATER*
+:::
 
-[Link to your Online CV](https://jeffbuckleyphd.com)
+::: {.column-screen style="background-color: #0A4F57; color: #FFFAEA; padding: 60px 0;"}
+::: {.container}
+::: {.row .align-items-center}
+::: {.col-md-8}
+## Join the CATER Collaborative
+Are you interested in partnering on infrastructure development or joining our research accelerator?
+:::
+::: {.col-md-4 .text-end}
+[Contact the Director]{.btn-cater role="button"}
+:::
+:::
+:::
+:::
