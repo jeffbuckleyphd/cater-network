@@ -1,49 +1,36 @@
 ---
-title: "About CATER"
-toc: false
+title: "About the Center"
+subtitle: "Bridging the gap between technological potential and educational reality."
+page-layout: article
 ---
 
-## Our Mandate
-Founded by Jeff Buckley, PhD, CATER (Center for the Advancement of Technology Education Research) is a collaborative community dedicated to understanding how digital tools can transform pedagogical landscapes. Our center operates at the intersection of data science, psychological measurement, and practical classroom implementation.
+## Our Core Philosophies
 
-::: {.section-feature}
-## Core Agendas & Activities
+To understand CATER, you must understand our three-pronged approach to the future of education.
 
-We are committed to three pillars of action:
+### 1. Infrastructure Development
+> "We don't just use tools; we build them."
 
-::: {layout="[1,1,1]"}
-::: {.card .mission-card .text-center}
-::: {.card-body}
-<i class="bi bi-tools"></i>
-#### Infrastructure Development
-Developing robust, reliable research tools, unique methodologies, and validated scales for assessing technology efficacy in diverse educational settings.
-:::
-:::
+Research in tech-education is often limited by the quality of the measurement. We focus on developing:
+* **Validated Scales** for digital literacy.
+* **Open-source software** for classroom data analysis.
+* **Methodological frameworks** for longitudinal tech studies.
 
-::: {.card .mission-card .text-center}
-::: {.card-body}
-<i class="bi bi-megaphone"></i>
-#### Translation for the Public
-Translating complex, evidence-based findings into accessible insights for educators, parents, and policymakers. *(Detailed content to follow).*
-:::
-:::
+### 2. Public Translation
+Research that stays in a PDF is research that hasn't finished its job. Our translation wing works to:
+* Create **evidence-based toolkits** for teachers.
+* Advise on **national curriculum** standards.
+* Produce **accessible media** explaining tech impacts on the developing brain.
 
-::: {.card .mission-card .text-center}
-::: {.card-body}
-<i class="bi bi-speedometer"></i>
-#### Research Accelerator
-Fostering a unique environment of mutual support, inspired by models like the Psychological Science Accelerator, where members collaborate on large-scale data collection, peer review, and statistical analysis.
-:::
-:::
-:::
-:::
+### 3. The Research Accelerator
+Inspired by the *Psychological Science Accelerator*, we provide the "CATER Network"—a way for researchers to:
+* Crowdsource data collection across different countries.
+* Find peer-reviewers who understand the tech-pedagogy niche.
+* Share code and datasets in a secure, ethical environment.
 
-## Our Leadership & Ethics
-*(Placeholder for your section on center history, leadership, or ethical guidelines).*
+---
 
-We adhere to rigorous standards of open science and ethical research protocols.
+### Leadership
+**Jeff Buckley, PhD** *Director of CATER*
 
-### Contact CATER
-For inquiries regarding collaboration, opportunities, or joining the center network, please contact us.
-
-<i class="bi bi-envelope"></i> contact@yourcenter.edu
+[Link to your Online CV](https://jeffbuckleyphd.com)

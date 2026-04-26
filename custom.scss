@@ -1,77 +1,103 @@
 /*-- scss:defaults --*/
+// Brand Colors
+$midnight:     #0A4F57;
+$latte:        #FFFAEA;
+$salmon:       #FA8072;
+$electric:     #06AED5;
+$white:        #ffffff;
 
-// 1. Color Palette defined from image_0.png
-// The Primary "Identity" colors
-$primary:       #0A4F57; // Midnight Green (Use for Nav, footers, authority banners)
-$cosmic-latte: #FFFAEA; // An alternative background (use for sections, avoid for body)
+// Web-safe modern font stacks
+$font-family-sans-serif: 'Inter', system-ui, -apple-system, sans-serif;
+$headings-font-family:   'Outfit', 'Montserrat', sans-serif;
 
-// The Accent/Action colors
-$link-color:   #FA8072; // Salmon (Perfect for links and hover states)
-$warning:      #F3CB0A; // Metallic Yellow (Use sparingly for important callouts)
-$secondary:    #06AED5; // Battery Charged Blue (Good for secondary buttons/icons)
-
-// Other adjustments for the modern look
-$body-bg:       #ffffff; // Clean white background keeps it modern and airy
-$body-color:    #333; // Darker text for readability
-$font-family-sans-serif: "Inter", -apple-system, system-ui, sans-serif;
-$headings-font-family: "Noto Serif", Georgia, serif; // Similar to your logo's serif
-
-// Navbar Specifics
-$navbar-bg:     $primary;
-$navbar-dark-color: white;
-$navbar-dark-hover-color: $link-color;
+// Base overrides
+$body-bg: $white;
+$body-color: #2d3436;
+$link-color: $midnight;
+$navbar-bg: $white; // Keeping navbar white for a "clean" look
+$navbar-fg: $midnight;
 
 /*-- scss:rules --*/
 
-// --- Component 1: The Hero Banner (Crucial for the stylized look) ---
-.hero-banner {
-  background-color: $primary;
-  color: white;
-  padding: 100px 0; // Gives it that big, expansive feel
-  text-align: center;
-  margin-top: -30px; // Pulls it flush with the navbar
+// 1. The Elegant Navbar
+.navbar {
+  border-bottom: 1px solid rgba(10, 79, 87, 0.1);
+  padding: 1rem 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85rem;
+}
 
+// 2. The "Editorial" Hero Section
+.hero-split {
+  padding: 120px 0;
+  background: linear-gradient(135deg, $midnight 0%, #063a40 100%);
+  color: $white;
+  clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%); // Subtle diagonal bottom
+  
   h1 {
-    font-weight: 700;
-    margin-bottom: 20px;
+    font-size: 4rem;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+    color: $latte;
   }
-
-  h3 {
-    opacity: 0.8;
-    margin-bottom: 40px;
-    font-weight: 300;
-  }
-
-  // Override default link behavior inside hero
-  a {
-    text-decoration: none;
-    font-weight: 600;
+  
+  .lead {
+    font-size: 1.4rem;
+    color: rgba(255, 250, 234, 0.8);
+    max-width: 600px;
   }
 }
 
-// --- Component 2: Modern Sectioning (alternating backgrounds) ---
-.section-feature {
-  padding: 60px 0;
-  // This class can be applied to divs to give them the Cosmic Latte background
-}
-
-// --- Component 3: The About Mission Cards (JEDI-style grid look) ---
-.mission-card {
-  border: none !important; // Removes the default border
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06); // Soft modern shadow
-  border-radius: 12px; // Rounded corners
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  height: 100%; // Cards in a grid stay same height
-  margin-bottom: 20px;
+// 3. The "Floating" Cards (Mission Agendas)
+.agenda-card {
+  border: none;
+  background: $white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border-top: 5px solid transparent;
 
   &:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(10, 79, 87, 0.1);
+    border-top: 5px solid $salmon;
   }
 
-  // Icons inside the card use your accent blue
-  .bi {
-    color: $secondary;
-    font-size: 2.5rem;
+  .icon-box {
+    width: 60px;
+    height: 60px;
+    background: $latte;
+    color: $midnight;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: $midnight;
+  }
+}
+
+// 4. Accent Buttons
+.btn-cater {
+  background: $salmon;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: 0.3s;
+  &:hover {
+    background: $midnight;
+    color: $latte;
+    transform: scale(1.05);
   }
 }
