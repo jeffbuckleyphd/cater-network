@@ -1,0 +1,77 @@
+/*-- scss:defaults --*/
+
+// 1. Color Palette defined from image_0.png
+// The Primary "Identity" colors
+$primary:       #0A4F57; // Midnight Green (Use for Nav, footers, authority banners)
+$cosmic-latte: #FFFAEA; // An alternative background (use for sections, avoid for body)
+
+// The Accent/Action colors
+$link-color:   #FA8072; // Salmon (Perfect for links and hover states)
+$warning:      #F3CB0A; // Metallic Yellow (Use sparingly for important callouts)
+$secondary:    #06AED5; // Battery Charged Blue (Good for secondary buttons/icons)
+
+// Other adjustments for the modern look
+$body-bg:       #ffffff; // Clean white background keeps it modern and airy
+$body-color:    #333; // Darker text for readability
+$font-family-sans-serif: "Inter", -apple-system, system-ui, sans-serif;
+$headings-font-family: "Noto Serif", Georgia, serif; // Similar to your logo's serif
+
+// Navbar Specifics
+$navbar-bg:     $primary;
+$navbar-dark-color: white;
+$navbar-dark-hover-color: $link-color;
+
+/*-- scss:rules --*/
+
+// --- Component 1: The Hero Banner (Crucial for the stylized look) ---
+.hero-banner {
+  background-color: $primary;
+  color: white;
+  padding: 100px 0; // Gives it that big, expansive feel
+  text-align: center;
+  margin-top: -30px; // Pulls it flush with the navbar
+
+  h1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    opacity: 0.8;
+    margin-bottom: 40px;
+    font-weight: 300;
+  }
+
+  // Override default link behavior inside hero
+  a {
+    text-decoration: none;
+    font-weight: 600;
+  }
+}
+
+// --- Component 2: Modern Sectioning (alternating backgrounds) ---
+.section-feature {
+  padding: 60px 0;
+  // This class can be applied to divs to give them the Cosmic Latte background
+}
+
+// --- Component 3: The About Mission Cards (JEDI-style grid look) ---
+.mission-card {
+  border: none !important; // Removes the default border
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06); // Soft modern shadow
+  border-radius: 12px; // Rounded corners
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%; // Cards in a grid stay same height
+  margin-bottom: 20px;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  }
+
+  // Icons inside the card use your accent blue
+  .bi {
+    color: $secondary;
+    font-size: 2.5rem;
+  }
+}

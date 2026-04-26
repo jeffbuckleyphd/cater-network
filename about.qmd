@@ -1,9 +1,49 @@
 ---
 title: "About CATER"
+toc: false
 ---
 
-CATER, the Centre for the Advancement of Technology Education Research, is being developed as an international research network for strengthening technology education research.
+## Our Mandate
+Founded by Jeff Buckley, PhD, CATER (Center for the Advancement of Technology Education Research) is a collaborative community dedicated to understanding how digital tools can transform pedagogical landscapes. Our center operates at the intersection of data science, psychological measurement, and practical classroom implementation.
 
-Its purpose is to support the field through shared research tools, methodological development, training, synthesis, and collaboration.
+::: {.section-feature}
+## Core Agendas & Activities
 
-At this early stage, CATER is best understood as an emerging network rather than a conventional physical research centre.
+We are committed to three pillars of action:
+
+::: {layout="[1,1,1]"}
+::: {.card .mission-card .text-center}
+::: {.card-body}
+<i class="bi bi-tools"></i>
+#### Infrastructure Development
+Developing robust, reliable research tools, unique methodologies, and validated scales for assessing technology efficacy in diverse educational settings.
+:::
+:::
+
+::: {.card .mission-card .text-center}
+::: {.card-body}
+<i class="bi bi-megaphone"></i>
+#### Translation for the Public
+Translating complex, evidence-based findings into accessible insights for educators, parents, and policymakers. *(Detailed content to follow).*
+:::
+:::
+
+::: {.card .mission-card .text-center}
+::: {.card-body}
+<i class="bi bi-speedometer"></i>
+#### Research Accelerator
+Fostering a unique environment of mutual support, inspired by models like the Psychological Science Accelerator, where members collaborate on large-scale data collection, peer review, and statistical analysis.
+:::
+:::
+:::
+:::
+
+## Our Leadership & Ethics
+*(Placeholder for your section on center history, leadership, or ethical guidelines).*
+
+We adhere to rigorous standards of open science and ethical research protocols.
+
+### Contact CATER
+For inquiries regarding collaboration, opportunities, or joining the center network, please contact us.
+
+<i class="bi bi-envelope"></i> contact@yourcenter.edu

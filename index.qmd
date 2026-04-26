@@ -1,24 +1,33 @@
 ---
-title: "CATER"
-subtitle: "Centre for the Advancement of Technology Education Research"
+layout: full
+title: ""
 ---
 
-## Advancing technology education research
+::: {.column-screen .hero-banner}
+::: {.content-container}
+# CATER
+### Center for the Advancement of Technology Education Research
 
-CATER is an emerging international network for advancing technology education research through shared tools, methodological development, research synthesis, and capacity-building.
+Welcome to CATER, a dedicated research hub bridging technology and education.
 
-The network is built around a simple premise: technology education research needs shared infrastructure. This includes better tools, stronger methods, clearer evidence, and more sustained international collaboration.
+[Learn Our Mission]{.btn .btn-outline-light .btn-lg role="button"} [Meet the Team]{.btn .btn-outline-light .btn-lg role="button"}
+:::
+:::
 
-## Core areas
+## Introduction to the Center
+CATER is focused on rigorous inquiry into the ways technology impacts learning outcomes, curriculum design, and educator professional development. We catalyze innovation by connecting researchers, practitioners, and policymakers.
 
-### Research credibility
+*Here is a placeholder for your introduction text or perhaps a high-quality photo of your updated logo/team.*
 
-Supporting more robust, transparent, and cumulative technology education research.
+::: {.content-container}
+::: {layout="[1,1,1]"}
+#### Research Excellence
+Briefly describe your high standards for methodologies and data integrity.
 
-### Research tools
+#### Collaborative Network
+Highlight how your center connects diverse perspectives and disciplines.
 
-Developing and sharing tools for assessment, analysis, synthesis, and methodological innovation.
-
-### Capacity-building
-
-Providing training, resources, and networked support for technology education researchers.
+#### Real-world Impact
+Describe the ultimate goal: improving educational systems through evidence.
+:::
+:::

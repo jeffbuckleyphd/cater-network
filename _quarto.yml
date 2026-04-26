@@ -1,20 +1,40 @@
 project:
   type: website
-  output-dir: _site
 
 website:
   title: "CATER"
-  site-url: "https://cater-network.com"
-  description: "Centre for the Advancement of Technology Education Research"
+  # Replace 'logo.png' with the actual filename of your updated logo
+  # logo: logo.png
+  # logo-alt: "CATER Logo: The Center for the Advancement of Technology Education Research"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+      - text: "Home"
+        href: index.qmd
+      - text: "About CATER"
+        href: about.qmd
+      - text: "Research"
+        menu:
+          - text: "Projects (Placeholder)"
+            href: index.qmd # Point back home for now
+          - text: "Publications (Placeholder)"
+            href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+      - text: "Contact"
+        href: about.qmd # Can use a contact section on the about page
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo # The base theme
+      - custom.scss # Your brand styling overrides
     toc: true
+    toc-location: right
+    code-fold: true
+    # Include Bootstrap Icons globally for card icons
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
