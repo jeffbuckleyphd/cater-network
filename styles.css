@@ -1,0 +1,13 @@
+/* CATER website custom styles */
+
+.navbar-title {
+  font-weight: 700;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+body {
+  line-height: 1.6;
+}
