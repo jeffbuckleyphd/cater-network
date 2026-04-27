@@ -14,25 +14,24 @@ website:
         href: index.qmd
       - text: "About CATER"
         href: about.qmd
-      - text: "Research"
-        menu:
-          - text: "Projects (Placeholder)"
-            href: index.qmd # Point back home for now
-          - text: "Publications (Placeholder)"
-            href: index.qmd
+
     right:
       - icon: github
         href: https://github.com/
       - text: "Contact"
         href: about.qmd # Can use a contact section on the about page
+  page-footer:
+    left: "© 2026 **CATER**"
+    center: "Centre for the Advancement of Technology Education Research"
+    
 
 format:
   html:
     theme:
       - cosmo # The base theme
       - custom.scss # Your brand styling overrides
-    toc: true
-    toc-location: right
+    toc: false
+    nav-empty: true
     code-fold: true
     # Include Bootstrap Icons globally for card icons
     include-in-header:

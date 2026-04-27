@@ -1,18 +1,24 @@
 ---
 layout: full
+title: ""
+toc: false
 ---
 
 ::: {.column-screen .hero-split}
 ::: {.container}
+<p class="accent-text" style="color: #FFFAEA; opacity: 0.8; margin-bottom: 0;">
+  Centre for the Advancement of Technology Education Research
+</p>
 # CATER.
 ### Advancing the Frontiers of <br>Technology Education Research.
-
 [Join the Network]{.btn-cater role="button"}
 :::
 :::
 
-::: {.container style="margin-top: -60px; margin-bottom: 80px;"}
-::: {layout-ncol="3"}
+::: {.column-screen style="margin-top: 60px; margin-bottom: 80px;"}
+::: {.wide-container}
+::: {layout-ncol="4"}
+
 ::: {.agenda-card}
 ::: {.icon-box}
 <i class="bi bi-cpu"></i>
@@ -36,24 +42,50 @@ Turning complex data into actionable insights for the public and policymakers.
 ### Accelerator
 A collaborative engine for rapid, multi-site data collection and peer support.
 :::
+
+::: {.agenda-card}
+::: {.icon-box}
+<i class="bi bi-mortarboard"></i>
+:::
+### Training
+Cultivating advanced methodological expertise to elevate the rigor and impact of the research community.
+:::
+
+:::
 :::
 :::
 
 ::: {.column-screen .impact-strip}
 ::: {.container}
+::: {.row .align-items-center}
+
+::: {.col-md-7 .text-start}
 [Our Impact]{.accent-text}
-## Bridging Technology and Pedagogy
-CATER operates as a global collaborative network. We move beyond isolated studies to create scalable, evidence-based frameworks for the digital age.
+<h2 style="color: #0A4F57; font-weight: 800;">Bridging Technology and Pedagogy</h2>
+<p style="color: #2d3436; font-size: 1.1rem;">
+  CATER operates as a global collaborative network. We move beyond isolated studies to create scalable, evidence-based frameworks for the digital age.
+</p>
+:::
 
-::: {layout-ncol="3" .mt-5}
-### 15+
-Active Projects
+::: {.col-md-5}
+::: {layout-ncol="3" .text-center}
+<div>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">15+</span>
+  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Active<br>Projects</span>
+</div>
 
-### 50+
-Network Members
+<div>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">50+</span>
+  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Network<br>Members</span>
+</div>
 
-### 10k+
-Data Points Collected
+<div>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">10k+</span>
+  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Data<br>Points</span>
+</div>
+:::
+:::
+
 :::
 :::
 :::
