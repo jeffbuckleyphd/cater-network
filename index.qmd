@@ -24,7 +24,7 @@ toc: false
 <i class="bi bi-cpu"></i>
 :::
 ### Infrastructure
-We build the scales, tools, and methodologies that power modern educational inquiry.
+Developing shared tools, protocols, datasets, and validated instruments that technology education researchers can adapt, reuse, and build upon.
 :::
 
 ::: {.agenda-card}
@@ -32,7 +32,7 @@ We build the scales, tools, and methodologies that power modern educational inqu
 <i class="bi bi-translate"></i>
 :::
 ### Translation
-Turning complex data into actionable insights for the public and policymakers.
+Turning research evidence into usable resources for teachers, teacher educators, curriculum designers, policymakers, and the wider technology education community.
 :::
 
 ::: {.agenda-card}
@@ -40,7 +40,7 @@ Turning complex data into actionable insights for the public and policymakers.
 <i class="bi bi-rocket-takeoff"></i>
 :::
 ### Accelerator
-A collaborative engine for rapid, multi-site data collection and peer support.
+Creating the conditions for multi-site studies, big-team science, shared grant applications, and collaborative research programmes across institutions.
 :::
 
 ::: {.agenda-card}
@@ -48,7 +48,7 @@ A collaborative engine for rapid, multi-site data collection and peer support.
 <i class="bi bi-mortarboard"></i>
 :::
 ### Training
-Cultivating advanced methodological expertise to elevate the rigor and impact of the research community.
+Supporting methodological capability through online seminars, workshops, research clinics, and an annual CATER unconference.
 :::
 
 :::
@@ -60,28 +60,38 @@ Cultivating advanced methodological expertise to elevate the rigor and impact of
 ::: {.row .align-items-center}
 
 ::: {.col-md-7 .text-start}
-[Our Impact]{.accent-text}
-<h2 style="color: #0A4F57; font-weight: 800;">Bridging Technology and Pedagogy</h2>
+[Future Impact Areas]{.accent-text}
+<h2 style="color: #0A4F57; font-weight: 800;">Building Capacity Across Technology Education Research</h2>
 <p style="color: #2d3436; font-size: 1.1rem;">
-  CATER operates as a global collaborative network. We move beyond isolated studies to create scalable, evidence-based frameworks for the digital age.
+  CATER will track its contribution through the growth of its network, training activity, collaborative grant development, open research infrastructure, and research outputs.
 </p>
 :::
 
 ::: {.col-md-5}
-::: {layout-ncol="3" .text-center}
+::: {layout-ncol="5" .text-center}
 <div>
-  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">15+</span>
-  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Active<br>Projects</span>
-</div>
-
-<div>
-  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">50+</span>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">—</span>
   <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Network<br>Members</span>
 </div>
 
 <div>
-  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">10k+</span>
-  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Data<br>Points</span>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">—</span>
+  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Training<br>Events</span>
+</div>
+
+<div>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">—</span>
+  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Collaborative<br>Grant Applications</span>
+</div>
+
+<div>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">—</span>
+  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Open<br>Tools</span>
+</div>
+
+<div>
+  <span style="color: #FA8072; font-weight: 800; font-size: 2rem; font-family: 'Outfit', sans-serif; display: block;">—</span>
+  <span style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; line-height: 1.2; font-family: 'Inter', sans-serif; color: #0A4F57; display: block;">Research<br>Dissemination</span>
 </div>
 :::
 :::
