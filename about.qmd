@@ -6,7 +6,8 @@ toc: false
 
 ::: {.column-screen .hero-mini}
 ::: {.container}
-# About the Center
+</p>
+## About CATER
 :::
 :::
 

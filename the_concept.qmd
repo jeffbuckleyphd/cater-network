@@ -1,0 +1,186 @@
+---
+layout: full
+title: ""
+toc: false
+---
+
+::: {.column-screen .hero-mini}
+::: {.container}
+</p>
+## The Concept
+:::
+:::
+
+<div class="cater-hybrid-diagram">
+<div class="hybrid-stage">
+
+<div class="hybrid-feed hybrid-feed-in">
+<strong>Feed in</strong><br>
+Questions<br>
+Data<br>
+Expertise
+</div>
+
+<div class="hybrid-feed hybrid-feed-out">
+<strong>Feed out</strong><br>
+Support<br>
+Infrastructure<br>
+Opportunity
+</div>
+
+<div class="hybrid-hub">
+<div class="hybrid-hub-title">
+<strong>CATER</strong><br>
+Distributed centre for research support, coordination, and connectivity
+</div>
+
+<div class="hybrid-services">
+
+<div class="hybrid-service">
+<i class="bi bi-tools"></i>
+<span>Tools</span>
+</div>
+
+<div class="hybrid-service">
+<i class="bi bi-mortarboard-fill"></i>
+<span>Training</span>
+</div>
+
+<div class="hybrid-service">
+<i class="bi bi-people-fill"></i>
+<span>Collaboration</span>
+</div>
+
+<div class="hybrid-service">
+<i class="bi bi-journal-text"></i>
+<span>Methods</span>
+</div>
+
+<div class="hybrid-service">
+<i class="bi bi-diagram-3-fill"></i>
+<span>Coordination</span>
+</div>
+
+<div class="hybrid-service">
+<i class="bi bi-file-earmark-text-fill"></i>
+<span>Grants</span>
+</div>
+
+</div>
+</div>
+
+<div class="hybrid-node node-a">
+<strong>Home Group A</strong><br>
+Local research programme
+</div>
+
+<div class="hybrid-node node-b">
+<strong>Home Group B</strong><br>
+Independent agenda
+</div>
+
+<div class="hybrid-node node-c">
+<strong>Home Group C</strong><br>
+Contextual expertise
+</div>
+
+<div class="hybrid-node node-d">
+<strong>Home Group D</strong><br>
+Local lab activity
+</div>
+
+<div class="hybrid-node node-e">
+<strong>Home Group E</strong><br>
+Teaching and research
+</div>
+
+<div class="hybrid-node node-f">
+<strong>Home Group F</strong><br>
+Applied and collaborative work
+</div>
+
+<div class="hybrid-spoke spoke-a"></div>
+<div class="hybrid-spoke spoke-b"></div>
+<div class="hybrid-spoke spoke-c"></div>
+<div class="hybrid-spoke spoke-d"></div>
+<div class="hybrid-spoke spoke-e"></div>
+<div class="hybrid-spoke spoke-f"></div>
+
+</div>
+
+<div class="hybrid-network-band">
+<strong>Network outcomes</strong><br>
+Big-team science • Multi-site studies • Open tools • Shared protocols • Coordinated grant applications
+</div>
+
+</div>
+
+::: {.container .agenda-section style="margin-top: 60px;"}
+## Shifting the Research Paradigm
+
+Standard research models often treat methodology as a means to an end. We believe the tool is as important as the discovery.
+
+::::::: {.research-flow-container}
+
+::: {.flow-step}
+**Research Question**
+:::
+
+::: {.flow-arrow}
+<i class="bi bi-arrow-right"></i>
+:::
+
+::::: {.step-wrapper}
+::: {.flow-step .highlight-step}
+**Methodological Design**
+:::
+
+:::: {.cater-branch}
+<i class="bi bi-arrow-down"></i>
+
+::: {.cater-box}
+**CATER Output**
+Validated Scales & Open Tools
+:::
+::::
+:::::
+
+::: {.flow-arrow}
+<i class="bi bi-arrow-right"></i>
+:::
+
+::: {.flow-step}
+**Implementation**
+:::
+
+::: {.flow-arrow}
+<i class="bi bi-arrow-right"></i>
+:::
+
+::: {.flow-step}
+**Dissemination of Oringinal Findings**
+:::
+
+:::::::
+
+## Why this matters
+By capturing the "Methodological Design" phase, CATER prevents the cycle of redundant work and "messy constructs." We provide a home for the instruments and frameworks that usually stay hidden in appendices.
+
+:::
+
+::: {.column-screen .impact-strip style="margin-top: 60px;"}
+::: {.container}
+::: {.row .align-items-center}
+::: {.col-md-8 .text-start}
+[Join the Network]{.accent-text}
+<h2 style="color: #0A4F57; font-weight: 800;">Join the CATER Collaborative</h2>
+<p style="color: #2d3436; font-size: 1.1rem;">
+  Are you interested in partnering on infrastructure development or joining our research accelerator?
+</p>
+:::
+::: {.col-md-4 .text-end}
+[Contact the Director]{.btn-cater role="button"}
+:::
+:::
+:::
+:::

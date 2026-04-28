@@ -146,12 +146,26 @@ $navbar-fg: $midnight;
 
 // 5. The Mini Hero (For About/Research pages)
 .hero-mini {
-  padding: 120px 0 100px 0;
+  padding: 80px 0 100px 0;
   background: $midnight;
   color: $white;
-  margin-top: -20px; // Distance between text and green banner on other pages
+  margin-top: 0px; // Distance between text and green banner on other pages
   clip-path: polygon(0 0, 100% 0, 100% 85%, 0% 100%);
-  h1 { font-weight: 800; color: $latte; margin-bottom: 0; }
+
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px; // This matches your homepage and cards alignment
+    text-align: left;
+  }
+ 
+  h1 { 
+    font-family: $headings-font-family;
+    font-size: 3.5rem; // Slightly smaller than the main home hero
+    font-weight: 800; 
+    color: $latte; 
+    margin-bottom: 0; 
+  }
 }
 
 // 6. The "Impact" Strip (and Contact Banner)
@@ -253,4 +267,412 @@ $navbar-fg: $midnight;
     display: inline-block;
   }
 
+}
+
+// 8. Research Flow Diagram
+.research-flow-container {
+  display: flex;
+  align-items: flex-start; // Keeps the main row aligned at the top
+  justify-content: space-between;
+  margin: 80px 0 120px 0;
+  padding: 40px 20px;
+  background: #fdfdfd;
+  border-radius: 15px;
+  border: 1px dashed rgba(10, 79, 87, 0.2);
+
+  @media (max-width: 992px) {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+}
+
+.step-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 160px;
+  height: auto;
+}
+
+.flow-step {
+  background: $white;
+  border: 2px solid $midnight;
+  padding: 12px 14px;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: $midnight;
+  text-align: center;
+
+  width: 160px !important;
+  min-width: 160px;
+  max-width: 160px;
+
+  height: 80px !important;
+  min-height: 80px;
+  max-height: 80px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  line-height: 1.25;
+  box-sizing: border-box;
+  flex: 0 0 auto !important;
+}
+
+.flow-step p {
+  margin: 0;
+}
+
+.research-flow-container > .flow-step,
+.research-flow-container > .step-wrapper {
+  flex: 0 0 160px;
+}
+.flow-step p,
+.flow-arrow p,
+.cater-box p {
+  margin: 0;
+}
+
+.highlight-step {
+  border-color: $salmon;
+  background: rgba(250, 128, 114, 0.05);
+}
+
+.flow-arrow {
+  color: $midnight;
+  font-size: 1.5rem;
+  opacity: 0.5;
+
+  height: 80px;
+  width: 28px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+
+.flow-arrow p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flow-arrow i {
+  display: block;
+  line-height: 1;
+}
+
+.cater-branch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15px; 
+  width: 100%;
+
+  i { 
+    color: $salmon; 
+    font-size: 1.5rem; 
+    margin-bottom: 10px;
+  }
+}
+
+.cater-box {
+  background: $salmon;
+  color: $white;
+  padding: 12px 15px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  width: 100%;
+  max-width: 160px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(250, 128, 114, 0.15);
+  box-sizing: border-box;
+}
+
+.cater-box p {
+  margin: 0;
+}
+
+// =========================================================
+// CATER Hybrid Distributed Centre Diagram
+// =========================================================
+
+.cater-hybrid-diagram {
+  width: min(1120px, calc(100vw - 40px));
+  margin: 80px 0 120px 50%;
+  transform: translateX(-50%);
+  padding: 34px 28px;
+  background: #fdfdfd;
+  border-radius: 15px;
+  border: 1px dashed rgba(10, 79, 87, 0.2);
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.cater-hybrid-diagram p {
+  margin: 0;
+}
+
+.hybrid-stage {
+  position: relative;
+  width: 860px;
+  height: 560px;
+  margin: 0 auto 28px auto;
+}
+
+.hybrid-stage::before {
+  content: "";
+  position: absolute;
+  inset: 40px 70px;
+  border: 2px dashed rgba(10, 79, 87, 0.18);
+  border-radius: 50%;
+  background: rgba(250, 128, 114, 0.02);
+}
+
+// Feed in / Feed out
+.hybrid-feed {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 120px;
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: $midnight;
+  z-index: 3;
+}
+
+.hybrid-feed-in {
+  left: 120px;
+}
+
+.hybrid-feed-out {
+  right: 120px;
+}
+
+// Closed / filled arrows beside feed labels
+.hybrid-feed-in::after {
+  content: "";
+  position: absolute;
+  right: -12px;
+  top: 50%;
+  width: 18px;
+  height: 12px;
+  transform: translateY(-50%);
+  background: $salmon;
+  clip-path: polygon(
+    0 40%,
+    65% 40%,
+    65% 0,
+    100% 50%,
+    65% 100%,
+    65% 60%,
+    0 60%
+  );
+  opacity: 0.85;
+}
+
+.hybrid-feed-out::before {
+  content: "";
+  position: absolute;
+  left: -12px;
+  top: 50%;
+  width: 18px;
+  height: 12px;
+  transform: translateY(-50%);
+  background: $salmon;
+  clip-path: polygon(
+    0 40%,
+    65% 40%,
+    65% 0,
+    100% 50%,
+    65% 100%,
+    65% 60%,
+    0 60%
+  );
+  opacity: 0.85;
+}
+
+// Central hub
+.hybrid-hub {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 350px;
+  min-height: 240px;
+  transform: translate(-50%, -50%);
+  background: #fff4f2;
+  border: 2px solid $salmon;
+  border-radius: 16px;
+  padding: 18px 16px 16px 16px;
+  box-sizing: border-box;
+  color: $midnight;
+  box-shadow: 0 4px 12px rgba(250, 128, 114, 0.12);
+  z-index: 4;
+}
+
+.hybrid-hub-title {
+  font-size: 0.83rem;
+  line-height: 1.35;
+  margin-bottom: 14px;
+}
+
+.hybrid-services {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.hybrid-service {
+  background: $white;
+  border: 1px solid rgba(10, 79, 87, 0.16);
+  border-radius: 10px;
+  min-height: 74px;
+  padding: 10px 8px;
+  box-sizing: border-box;
+  font-size: 0.74rem;
+  line-height: 1.2;
+  color: $midnight;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.hybrid-service i {
+  font-size: 1.1rem;
+  color: $salmon;
+  line-height: 1;
+}
+
+// Outer home groups
+.hybrid-node {
+  position: absolute;
+  width: 170px;
+  min-height: 86px;
+  background: $white;
+  border: 2px solid $midnight;
+  border-radius: 10px;
+  padding: 12px 10px;
+  box-sizing: border-box;
+  color: $midnight;
+  font-size: 0.78rem;
+  line-height: 1.25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  z-index: 4;
+}
+
+.node-a { top: 8px; left: 345px; }
+.node-b { top: 105px; right: 18px; }
+.node-c { bottom: 105px; right: 18px; }
+.node-d { bottom: 8px; left: 345px; }
+.node-e { bottom: 105px; left: 18px; }
+.node-f { top: 105px; left: 18px; }
+
+// Spokes
+.hybrid-spoke {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 2px;
+  height: var(--spoke-length, 200px);
+  background: rgba(250, 128, 114, 0.32);
+  transform-origin: top center;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.spoke-a {
+  --spoke-length: 200px;
+  transform: translateX(-50%) rotate(0deg);
+}
+
+.spoke-b {
+  --spoke-length: 300px;
+  transform: translateX(-50%) rotate(62deg);
+}
+
+.spoke-c {
+  --spoke-length: 300px;
+  transform: translateX(-50%) rotate(118deg);
+}
+
+.spoke-d {
+  --spoke-length: 200px;
+  transform: translateX(-50%) rotate(180deg);
+}
+
+.spoke-e {
+  --spoke-length: 300px;
+  transform: translateX(-50%) rotate(242deg);
+}
+
+.spoke-f {
+  --spoke-length: 300px;
+  transform: translateX(-50%) rotate(298deg);
+}
+
+// Network outcomes band
+.hybrid-network-band {
+  background: $midnight;
+  color: $white;
+  border-radius: 10px;
+  padding: 14px 18px;
+  text-align: center;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hybrid-stage {
+  position: relative;
+  isolation: isolate;
+  width: 860px;
+  height: 560px;
+  margin: 0 auto 28px auto;
+}
+
+// Responsive
+@media (max-width: 980px) {
+  .hybrid-stage {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+  }
+
+  .hybrid-stage::before,
+  .hybrid-spoke,
+  .hybrid-feed {
+    display: none;
+  }
+
+  .hybrid-hub,
+  .hybrid-node {
+    position: static;
+    transform: none;
+    width: min(320px, 100%);
+  }
+
+  .hybrid-hub {
+    order: -1;
+  }
+
+  .hybrid-services {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
