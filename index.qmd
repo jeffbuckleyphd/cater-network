@@ -10,8 +10,18 @@ toc: false
   Centre for the Advancement of Technology Education Research
 </p>
 # CATER.
-### Advancing the Frontiers of <br>Technology Education Research.
-[Join the Network]{.btn-cater role="button"}
+### Connecting Researchers to Strengthen <br>Technology Education Research.
+[Explore the Concept](the_concept.qmd){.btn-cater role="button"}
+:::
+:::
+
+::: {.column-screen}
+::: {.homepage-bridge}
+<p class="bridge-kicker">The CATER model</p>
+
+<p class="bridge-statement">
+CATER is designed as a distributed centre rather than a single local research group. Its purpose is to connect researchers, support methodological development, and create shared infrastructure that strengthens research activity across existing institutions, groups, and projects.
+</p>
 :::
 :::
 
