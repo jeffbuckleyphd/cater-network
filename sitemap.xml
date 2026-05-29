@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cater-network.com/the_concept.html</loc>
-    <lastmod>2026-05-28T03:06:39.619Z</lastmod>
+    <loc>https://cater-network.com/web-apps.html</loc>
+    <lastmod>2026-05-29T11:42:35.159Z</lastmod>
   </url>
   <url>
-    <loc>https://cater-network.com/join_the_centre.html</loc>
-    <lastmod>2026-05-27T07:44:32.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cater-network.com/how_cater_works.html</loc>
-    <lastmod>2026-05-27T07:52:44.382Z</lastmod>
+    <loc>https://cater-network.com/members.html</loc>
+    <lastmod>2026-05-28T03:43:53.177Z</lastmod>
   </url>
   <url>
     <loc>https://cater-network.com/index.html</loc>
     <lastmod>2026-05-28T13:27:40.980Z</lastmod>
   </url>
   <url>
-    <loc>https://cater-network.com/members.html</loc>
-    <lastmod>2026-05-28T03:43:53.177Z</lastmod>
+    <loc>https://cater-network.com/how_cater_works.html</loc>
+    <lastmod>2026-05-27T07:52:44.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cater-network.com/join_the_centre.html</loc>
+    <lastmod>2026-05-27T07:44:32.289Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cater-network.com/the_concept.html</loc>
+    <lastmod>2026-05-28T03:06:39.619Z</lastmod>
   </url>
 </urlset>

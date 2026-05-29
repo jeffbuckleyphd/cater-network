@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "the_concept.html",
-    "href": "the_concept.html",
+    "objectID": "web-apps.html",
+    "href": "web-apps.html",
     "title": "CATER",
     "section": "",
-    "text": "A centre that studies technology education research while developing the infrastructure, capacity, and collaborations needed to strengthen the field."
+    "text": "Browser-based research tools supporting technology education research."
   },
   {
-    "objectID": "the_concept.html#the-concept",
-    "href": "the_concept.html#the-concept",
+    "objectID": "web-apps.html#web-apps",
+    "href": "web-apps.html#web-apps",
     "title": "CATER",
     "section": "",
-    "text": "A centre that studies technology education research while developing the infrastructure, capacity, and collaborations needed to strengthen the field."
+    "text": "Browser-based research tools supporting technology education research."
   },
   {
-    "objectID": "join_the_centre.html",
-    "href": "join_the_centre.html",
+    "objectID": "web-apps.html#linkography-web-app-v1",
+    "href": "web-apps.html#linkography-web-app-v1",
+    "title": "CATER",
+    "section": "Linkography Web App v1",
+    "text": "Linkography Web App v1\nThis Linkography Web App currently under development with a planned full release in September 2026. It is an open browser-based tool for visualising and analysing linkographic data. It was developed by Nicolaas Blom and Jeffrey Buckley as a research resource associated with CATER.\nThe app can be used to examine links between moves, link density, move classifications, critical moves, and structural patterns in sequenced interaction data. The recommended way to use the app is through the browser.\n\nLaunch app View source code"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
     "title": "CATER",
     "section": "",
-    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
+    "text": "Researchers, doctoral researchers, educators, and collaborators contributing to the advancement of technology education research."
   },
   {
-    "objectID": "join_the_centre.html#join-the-centre",
-    "href": "join_the_centre.html#join-the-centre",
+    "objectID": "members.html#members",
+    "href": "members.html#members",
     "title": "CATER",
     "section": "",
-    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
+    "text": "Researchers, doctoral researchers, educators, and collaborators contributing to the advancement of technology education research."
   },
   {
-    "objectID": "join_the_centre.html#complete-the-expression-of-interest-form",
-    "href": "join_the_centre.html#complete-the-expression-of-interest-form",
+    "objectID": "members.html#where-members-are-based",
+    "href": "members.html#where-members-are-based",
     "title": "CATER",
-    "section": "Complete the Expression of Interest Form",
-    "text": "Complete the Expression of Interest Form\nThe form collects basic membership details, areas of interest, methodological strengths, a profile image, and consent preferences. Submitting the form does not automatically add a person to the members page. Expressions of interest will be reviewed to ensure alignment with the centre’s remit."
+    "section": "Where Members Are Based",
+    "text": "Where Members Are Based\n\n\n6 Members\n\n\n4 Institutions\n\n\n3 Countries"
+  },
+  {
+    "objectID": "members.html#current-members",
+    "href": "members.html#current-members",
+    "title": "CATER",
+    "section": "Current Members",
+    "text": "Current Members\n\n\n  \n\n\nJeffrey Buckley\n\n\nDirector\n\n\nTUS, Ireland\n\n\nLiU, Sweden\n\n\n\n\n  \n\n\nMatt McLain\n\n\nCo-Director\n\n\nLJMU, UK\n\n\n\n\n  \n\n\nNicolaas Blom\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nLiam Maquet\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nManus McDyer\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nJason Power\n\n\nUL, Ireland"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nCATER.\n",
+    "section": "",
+    "text": "Centre for the Advancement of Technology Education Research\n\n\nCATER.\n\n\nConnecting Researchers to Strengthen Technology Education Research.\nExplore the Concept\n\n\n\n\n\n\nPurpose\n\n\nCATER, the Centre for the Advancement of Technology Education Research, is an international research centre dedicated to strengthening the quality, visibility, and collective capacity of technology education research. Its work combines meta-research on the field with the development of research infrastructure, methodological resources, training activity, and collaborative research initiatives.\n\n\n\n\n\n\n\n\n\n\n\n\nMeta-Research\nStudying the methods, practices, publication patterns, and research traditions that shape technology education research.\n\n\n\n\n\n\n\nInfrastructure\nDeveloping tools, protocols, datasets, and research resources that support high-quality technology education research.\n\n\n\n\n\n\n\nAccelerator\nCreating the conditions for multi-site studies, big-team science, collaborative grant applications, and shared research programmes.\n\n\n\n\n\n\n\nCapacity Building\nSupporting researchers through training schools, workshops, publishing guides, research clinics, and the CATER unconference.\n\n\n\n\n\n\n\n\n\n\nImpact\n\nBuilding Capacity Across Technology Education Research\n\n\nCATER will track its contribution through centre membership, capacity-building activity, collaborative projects, open research tools, research outputs, and research resources that support the development of technology education research.\n\n\n\n\n\n\n— CentreMembers\n\n\n— Capacity-BuildingEvents\n\n\n— CollaborativeProjects\n\n\n— OpenResearch Tools\n\n\n— ResearchOutputs\n\n\n— ResearchResources"
   },
   {
     "objectID": "how_cater_works.html",
@@ -77,38 +98,38 @@
     "text": "Capacity Building\nCATER supports the development of methodological confidence, research capability, and publishing capacity across career stages."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nCATER.\n",
-    "section": "",
-    "text": "Centre for the Advancement of Technology Education Research\n\n\nCATER.\n\n\nConnecting Researchers to Strengthen Technology Education Research.\nExplore the Concept\n\n\n\n\n\n\nPurpose\n\n\nCATER, the Centre for the Advancement of Technology Education Research, is an international research centre dedicated to strengthening the quality, visibility, and collective capacity of technology education research. Its work combines meta-research on the field with the development of research infrastructure, methodological resources, training activity, and collaborative research initiatives.\n\n\n\n\n\n\n\n\n\n\n\n\nMeta-Research\nStudying the methods, practices, publication patterns, and research traditions that shape technology education research.\n\n\n\n\n\n\n\nInfrastructure\nDeveloping tools, protocols, datasets, and research resources that support high-quality technology education research.\n\n\n\n\n\n\n\nAccelerator\nCreating the conditions for multi-site studies, big-team science, collaborative grant applications, and shared research programmes.\n\n\n\n\n\n\n\nCapacity Building\nSupporting researchers through training schools, workshops, publishing guides, research clinics, and the CATER unconference.\n\n\n\n\n\n\n\n\n\n\nImpact\n\nBuilding Capacity Across Technology Education Research\n\n\nCATER will track its contribution through centre membership, capacity-building activity, collaborative projects, open research tools, research outputs, and research resources that support the development of technology education research.\n\n\n\n\n\n\n— CentreMembers\n\n\n— Capacity-BuildingEvents\n\n\n— CollaborativeProjects\n\n\n— OpenResearch Tools\n\n\n— ResearchOutputs\n\n\n— ResearchResources"
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
+    "objectID": "join_the_centre.html",
+    "href": "join_the_centre.html",
     "title": "CATER",
     "section": "",
-    "text": "Researchers, doctoral researchers, educators, and collaborators contributing to the advancement of technology education research."
+    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
   },
   {
-    "objectID": "members.html#members",
-    "href": "members.html#members",
+    "objectID": "join_the_centre.html#join-the-centre",
+    "href": "join_the_centre.html#join-the-centre",
     "title": "CATER",
     "section": "",
-    "text": "Researchers, doctoral researchers, educators, and collaborators contributing to the advancement of technology education research."
+    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
   },
   {
-    "objectID": "members.html#where-members-are-based",
-    "href": "members.html#where-members-are-based",
+    "objectID": "join_the_centre.html#complete-the-expression-of-interest-form",
+    "href": "join_the_centre.html#complete-the-expression-of-interest-form",
     "title": "CATER",
-    "section": "Where Members Are Based",
-    "text": "Where Members Are Based\n\n\n6 Members\n\n\n4 Institutions\n\n\n3 Countries"
+    "section": "Complete the Expression of Interest Form",
+    "text": "Complete the Expression of Interest Form\nThe form collects basic membership details, areas of interest, methodological strengths, a profile image, and consent preferences. Submitting the form does not automatically add a person to the members page. Expressions of interest will be reviewed to ensure alignment with the centre’s remit."
   },
   {
-    "objectID": "members.html#current-members",
-    "href": "members.html#current-members",
+    "objectID": "the_concept.html",
+    "href": "the_concept.html",
     "title": "CATER",
-    "section": "Current Members",
-    "text": "Current Members\n\n\n  \n\n\nJeffrey Buckley\n\n\nDirector\n\n\nTUS, Ireland\n\n\nLiU, Sweden\n\n\n\n\n  \n\n\nMatt McLain\n\n\nCo-Director\n\n\nLJMU, UK\n\n\n\n\n  \n\n\nNicolaas Blom\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nLiam Maquet\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nManus McDyer\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nJason Power\n\n\nUL, Ireland"
+    "section": "",
+    "text": "A centre that studies technology education research while developing the infrastructure, capacity, and collaborations needed to strengthen the field."
+  },
+  {
+    "objectID": "the_concept.html#the-concept",
+    "href": "the_concept.html#the-concept",
+    "title": "CATER",
+    "section": "",
+    "text": "A centre that studies technology education research while developing the infrastructure, capacity, and collaborations needed to strengthen the field."
   }
 ]
