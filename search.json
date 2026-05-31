@@ -56,6 +56,41 @@
     "text": "Centre for the Advancement of Technology Education Research\n\n\nCATER.\n\n\nConnecting Researchers to Strengthen Technology Education Research.\nExplore the Concept\n\n\n\n\n\n\nPurpose\n\n\nCATER, the Centre for the Advancement of Technology Education Research, is an international research centre dedicated to strengthening the quality, visibility, and collective capacity of technology education research. Its work combines meta-research on the field with the development of research infrastructure, methodological resources, training activity, and collaborative research initiatives.\n\n\n\n\n\n\n\n\n\n\n\n\nMeta-Research\nStudying the methods, practices, publication patterns, and research traditions that shape technology education research.\n\n\n\n\n\n\n\nInfrastructure\nDeveloping tools, protocols, datasets, and research resources that support high-quality technology education research.\n\n\n\n\n\n\n\nAccelerator\nCreating the conditions for multi-site studies, big-team science, collaborative grant applications, and shared research programmes.\n\n\n\n\n\n\n\nCapacity Building\nSupporting researchers through training schools, workshops, publishing guides, research clinics, and the CATER unconference.\n\n\n\n\n\n\n\n\n\n\nImpact\n\nBuilding Capacity Across Technology Education Research\n\n\nCATER will track its contribution through centre membership, capacity-building activity, collaborative projects, open research tools, research outputs, and research resources that support the development of technology education research.\n\n\n\n\n\n\n— CentreMembers\n\n\n— Capacity-BuildingEvents\n\n\n— CollaborativeProjects\n\n\n— OpenResearch Tools\n\n\n— ResearchOutputs\n\n\n— ResearchResources"
   },
   {
+    "objectID": "apps/openlinkography.html",
+    "href": "apps/openlinkography.html",
+    "title": "OpenLinkography",
+    "section": "",
+    "text": "A browser-based tool for visualising and analysing linkographic data."
+  },
+  {
+    "objectID": "apps/openlinkography.html#openlinkography",
+    "href": "apps/openlinkography.html#openlinkography",
+    "title": "OpenLinkography",
+    "section": "",
+    "text": "A browser-based tool for visualising and analysing linkographic data."
+  },
+  {
+    "objectID": "apps/openlinkography.html#about-the-app",
+    "href": "apps/openlinkography.html#about-the-app",
+    "title": "OpenLinkography",
+    "section": "About the app",
+    "text": "About the app\nOpenLinkography is an open browser-based tool for visualising and analysing linkographic data. The app supports researchers working with sequenced interaction data, including dialogue, think-aloud protocols, design activity, and other forms of linked qualitative or mixed-methods data.\nThe app provides a workflow for examining links between moves, link density, move classifications, critical moves, and broader structural patterns in interaction data. It is intended to make linkography more accessible as a research method by supporting visualisation and analysis without requiring users to build their own analysis workflow from scratch."
+  },
+  {
+    "objectID": "apps/openlinkography.html#typical-uses",
+    "href": "apps/openlinkography.html#typical-uses",
+    "title": "OpenLinkography",
+    "section": "Typical uses",
+    "text": "Typical uses\nOpenLinkography may be useful for researchers interested in:\n\nanalysing think-aloud protocols;\nexamining design dialogue and collaborative activity;\nvisualising interaction patterns over time;\nidentifying critical moves within sequenced data;\nintroducing linkography as a methodological approach in teaching or research education."
+  },
+  {
+    "objectID": "apps/openlinkography.html#related-publication",
+    "href": "apps/openlinkography.html#related-publication",
+    "title": "OpenLinkography",
+    "section": "Related publication",
+    "text": "Related publication\nBlom, N., & Buckley, J. (2024). A primer on the use of R to analyse think aloud protocols through linkography. The 41st International Pupils’ Attitudes Towards Technology Conference Proceedings 2024. Nanjing, China: Nanjing Normal University."
+  },
+  {
     "objectID": "how_cater_works.html",
     "href": "how_cater_works.html",
     "title": "CATER",
