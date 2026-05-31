@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cater-network.com/web-apps.html</loc>
-    <lastmod>2026-05-29T11:42:35.159Z</lastmod>
+    <lastmod>2026-05-31T03:18:00.878Z</lastmod>
   </url>
   <url>
     <loc>https://cater-network.com/members.html</loc>
@@ -11,6 +11,14 @@
   <url>
     <loc>https://cater-network.com/index.html</loc>
     <lastmod>2026-05-28T13:27:40.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cater-network.com/apps/openlinkography.html</loc>
+    <lastmod>2026-05-31T03:13:34.574Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cater-network.com/apps/openacj.html</loc>
+    <lastmod>2026-05-31T03:19:18.264Z</lastmod>
   </url>
   <url>
     <loc>https://cater-network.com/how_cater_works.html</loc>

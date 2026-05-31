@@ -14,11 +14,11 @@
     "text": "Browser-based research tools supporting technology education research."
   },
   {
-    "objectID": "web-apps.html#linkography-web-app-v1",
-    "href": "web-apps.html#linkography-web-app-v1",
+    "objectID": "web-apps.html#cater-web-apps",
+    "href": "web-apps.html#cater-web-apps",
     "title": "CATER",
-    "section": "Linkography Web App v1",
-    "text": "Linkography Web App v1\nThis Linkography Web App currently under development with a planned full release in September 2026. It is an open browser-based tool for visualising and analysing linkographic data. It was developed by Nicolaas Blom and Jeffrey Buckley as a research resource associated with CATER.\nThe app can be used to examine links between moves, link density, move classifications, critical moves, and structural patterns in sequenced interaction data. The recommended way to use the app is through the browser.\n\nLaunch app View source code"
+    "section": "CATER Web Apps",
+    "text": "CATER Web Apps\n\nCATER web apps are browser-based tools developed to support research, analysis, and methodological development in technology education and related fields. Each app has a dedicated page with further information, access links, and supporting resources.\n\n\n \n\nOpenACJ\n\n&lt;p class=\"app-developers\"&gt;Developed by Jeffrey Buckley&lt;/p&gt;\n&lt;p&gt;\n  A browser-based platform for adaptive comparative judgement research and assessment.\n&lt;/p&gt;\n\n \n\nOpenLinkography\n\n&lt;p class=\"app-developers\"&gt;Developed by Nicolaas Blom and Jeffrey Buckley&lt;/p&gt;\n&lt;p&gt;\n  A browser-based tool for visualising and analysing linkographic data.\n&lt;/p&gt;"
   },
   {
     "objectID": "members.html",
