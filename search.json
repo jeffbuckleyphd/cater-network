@@ -39,14 +39,14 @@
     "href": "members.html#where-members-are-based",
     "title": "CATER",
     "section": "Where Members Are Based",
-    "text": "Where Members Are Based\n\n\n6 Members\n\n\n4 Institutions\n\n\n3 Countries"
+    "text": "Where Members Are Based\n\n\n7 Members\n\n\n5 Institutions\n\n\n4 Countries"
   },
   {
     "objectID": "members.html#current-members",
     "href": "members.html#current-members",
     "title": "CATER",
     "section": "Current Members",
-    "text": "Current Members\n\n\n  \n\n\nJeffrey Buckley\n\n\nDirector\n\n\nTUS, Ireland\n\n\nLiU, Sweden\n\n\n\n\n  \n\n\nMatt McLain\n\n\nCo-Director\n\n\nLJMU, UK\n\n\n\n\n  \n\n\nNicolaas Blom\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nLiam Maquet\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nManus McDyer\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nJason Power\n\n\nUL, Ireland"
+    "text": "Current Members\n\n\n  \n\n\nJeffrey Buckley\n\n\nDirector\n\n\nTUS, Ireland\n\n\nLiU, Sweden\n\n\n\n\n  \n\n\nMatt McLain\n\n\nCo-Director\n\n\nLJMU, UK\n\n\n\n\n  \n\n\nNicolaas Blom\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nLiam Maquet\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nManus McDyer\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nJason Power\n\n\nUL, Ireland\n\n\n\n\n\n\n\nYang, Qiuyue\n\n\nHBUT, China"
   },
   {
     "objectID": "index.html",
@@ -82,6 +82,13 @@
     "title": "OpenLinkography",
     "section": "Typical uses",
     "text": "Typical uses\nOpenLinkography may be useful for researchers interested in:\n\nanalysing think-aloud protocols;\nexamining design dialogue and collaborative activity;\nvisualising interaction patterns over time;\nidentifying critical moves within sequenced data;\nintroducing linkography as a methodological approach in teaching or research education."
+  },
+  {
+    "objectID": "apps/openlinkography.html#supporting-files",
+    "href": "apps/openlinkography.html#supporting-files",
+    "title": "OpenLinkography",
+    "section": "Supporting files",
+    "text": "Supporting files\nThese files can be used to test the app and prepare linkographic data for analysis.\n\n\n\nFile\nDescription\n\n\n\n\n Sample data\nExample dataset for exploring the OpenLinkography app.\n\n\n Data template\nBlank spreadsheet template for preparing data."
   },
   {
     "objectID": "apps/openlinkography.html#related-publications",
