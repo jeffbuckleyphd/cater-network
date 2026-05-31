@@ -91,6 +91,41 @@
     "text": "Related publications\nBlom, N., & Buckley, J. (2024). A primer on the use of R to analyse think aloud protocols through linkography. The 41st International Pupils’ Attitudes Towards Technology Conference Proceedings 2024. Nanjing, China: Nanjing Normal University."
   },
   {
+    "objectID": "apps/openacj.html",
+    "href": "apps/openacj.html",
+    "title": "OpenACJ",
+    "section": "",
+    "text": "A browser-based platform for adaptive comparative judgement research."
+  },
+  {
+    "objectID": "apps/openacj.html#openacj",
+    "href": "apps/openacj.html#openacj",
+    "title": "OpenACJ",
+    "section": "",
+    "text": "A browser-based platform for adaptive comparative judgement research."
+  },
+  {
+    "objectID": "apps/openacj.html#about-the-app",
+    "href": "apps/openacj.html#about-the-app",
+    "title": "OpenACJ",
+    "section": "About the app",
+    "text": "About the app\nOpenACJ is a browser-based platform for conducting adaptive comparative judgement research. It supports the collection of comparative judgements in which judges make a series of binary decisions between pieces of work.\nThe app is designed to support open-ended educational assessment, particularly where work is difficult to evaluate using conventional rubrics alone. It can be used to organise judgement sessions, support judge participation, and generate data for modelling comparative judgement outcomes.\nOpenACJ is currently hosted through Hugging Face Spaces and uses Google Sheets to support the underlying data workflow. The app can be launched directly in a browser, and its source code is available through the Hugging Face repository."
+  },
+  {
+    "objectID": "apps/openacj.html#typical-uses",
+    "href": "apps/openacj.html#typical-uses",
+    "title": "OpenACJ",
+    "section": "Typical uses",
+    "text": "Typical uses\nOpenACJ may be useful for researchers interested in:\n\nassessing open-ended student work;\ncomparing design portfolios, artefacts, or project outcomes;\nconducting adaptive comparative judgement studies;\nexploring judgement reliability and ranking outcomes;\nsupporting research on assessment in technology education and related fields."
+  },
+  {
+    "objectID": "apps/openacj.html#related-publications",
+    "href": "apps/openacj.html#related-publications",
+    "title": "OpenACJ",
+    "section": "Related publications",
+    "text": "Related publications\n\nDevelopment\nBuckley, J. (2024). An open-source adaptive comparative judgement app for technology education research and practice: Alpha version. Journal of Technology Education, 36(1), 58–82. https://doi.org/10.21061/jte.v36i1.a.4\nBuckley, J., & Zhu, C. (2025). Investigating the impact of comparison difficulty and judge fatigue on the feasibility of comparative judgement for technology education. The 42nd International Pupils’ Attitudes Towards Technology Conference Proceedings 2025. Montreal, Canada: Université de Sherbrooke.\nBuckley, J., & Lin, T.-J. (2024). Simulating adaptive comparative judgement sessions to determine the effect of judge disagreement on reliability. The 41st International Pupils’ Attitudes Towards Technology Conference Proceedings 2024. Nanjing, China: Nanjing Normal University.\nBuckley, J., Seery, N., & Kimbell, R. (2023). Modelling approaches to combining and comparing independent adaptive comparative judgement ranks. The 40th International Pupils’ Attitudes Towards Technology Conference Proceedings 2023. Liverpool, UK: Liverpool John Moores University.\nBuckley, J., & Canty, D. (2022). Assessing performance: The technical challenges in developing and validating “ACJ-Steady State”. PATT2022: PATT on the Edge: Technology, Innovation, and Education. Newfoundland & Labrador, Canada: Memorial University.\n\n\nUse and application\nZhu, C., Buckley, J., Klapwijk, R., Spandaw, J., & de Vries, M. (2025). A holistic look at creativity: Evaluating pupils’ creative design ideation and prototypes through comparative judgment. International Journal of Technology and Design Education. https://doi.org/10.1007/s10798-025-10027-w"
+  },
+  {
     "objectID": "how_cater_works.html",
     "href": "how_cater_works.html",
     "title": "CATER",
