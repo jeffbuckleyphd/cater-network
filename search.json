@@ -130,7 +130,7 @@
     "href": "apps/openacj.html#supporting-files",
     "title": "OpenACJ",
     "section": "Supporting files",
-    "text": "Supporting files\nThese files can be used to guide you through using the OpenACJ app.\n\n\n\nFile\nDescription\n\n\n\n\n Google account setup\nOne time only step-by-step guide to prepare your Google Account to connect with OpenACJ."
+    "text": "Supporting files\nThese files can be used to guide you through using the OpenACJ app.\n\nNote on Google Account Integration: Connecting your Google Account is a one-time setup. Once configured, you will not have to repeat this process for any future OpenACJ sessions!\n\n\n\n\nFile\nDescription\n\n\n\n\n Google Account Instructions\nPresentation with step-by-step instructions for setting up your Google Account for use with OpenACJ.\n\n\n OpenACJ Session Setup Guide\nPresentation detailing how to configure and run an OpenACJ session.\n\n\n Portfolio Links Template\nBlank spreadsheet template for preparing your portfolio data to upload into OpenACJ.\n\n\n Judge List Template\nBlank spreadsheet template for preparing your list of judges to upload into OpenACJ."
   },
   {
     "objectID": "apps/openacj.html#related-publications",
