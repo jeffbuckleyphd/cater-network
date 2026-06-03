@@ -1,21 +1,21 @@
 [
   {
-    "objectID": "web-apps.html",
-    "href": "web-apps.html",
+    "objectID": "web_apps.html",
+    "href": "web_apps.html",
     "title": "CATER",
     "section": "",
     "text": "Browser-based research tools supporting technology education research."
   },
   {
-    "objectID": "web-apps.html#web-apps",
-    "href": "web-apps.html#web-apps",
+    "objectID": "web_apps.html#web-apps",
+    "href": "web_apps.html#web-apps",
     "title": "CATER",
     "section": "",
     "text": "Browser-based research tools supporting technology education research."
   },
   {
-    "objectID": "web-apps.html#cater-web-apps",
-    "href": "web-apps.html#cater-web-apps",
+    "objectID": "web_apps.html#cater-web-apps",
+    "href": "web_apps.html#cater-web-apps",
     "title": "CATER",
     "section": "CATER Web Apps",
     "text": "CATER Web Apps\n\nCATER web apps are browser-based tools developed to support research, analysis, and methodological development in technology education and related fields.\n\n\n\n  \n\n\nOpenACJ\n\n\nDeveloped by Jeffrey Buckley\n\n\nA browser-based platform for adaptive comparative judgement research.\n\n\n\n\n  \n\n\nOpenLinkography\n\n\nDeveloped by Nicolaas Blom and Jeffrey Buckley\n\n\nA browser-based tool for visualising and analysing linkographic data."
@@ -47,6 +47,27 @@
     "title": "CATER",
     "section": "CATER Members",
     "text": "CATER Members\n\nDirectors\n\n\n  \n\n\nJeffrey Buckley\n\n\nDirector\n\n\nTUS, Ireland\n\n\nLiU, Sweden\n\n\n\n\n  \n\n\nMatt McLain\n\n\nCo-Director\n\n\nLJMU, UK\n\n\n\n\n\n\nAdvisory Board Members\n\n\n  \n\n\nMarc de Vries\n\n\nTU Delft, the Netherlands\n\n\n\n\n\n\n\nGu, Jianjun\n\n\nNNU, China\n\n\n\n\n  \n\n\nJonas Hallström\n\n\nLiU, Sweden\n\n\n\n\n  \n\n\nSheryl Sorby\n\n\nUC, USA\n\n\n\n\n\n\nMembers\n\n\n  \n\n\nNicolaas Blom\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nLiam Maquet\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nManus McDyer\n\n\nTUS, Ireland\n\n\nUL, Ireland\n\n\n\n\n  \n\n\nJason Power\n\n\nUL, Ireland\n\n\n\n\n\n\n\nYang, Qiuyue\n\n\nHBUT, China"
+  },
+  {
+    "objectID": "join_the_centre.html",
+    "href": "join_the_centre.html",
+    "title": "CATER",
+    "section": "",
+    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
+  },
+  {
+    "objectID": "join_the_centre.html#join-the-centre",
+    "href": "join_the_centre.html#join-the-centre",
+    "title": "CATER",
+    "section": "",
+    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
+  },
+  {
+    "objectID": "join_the_centre.html#complete-the-expression-of-interest-form",
+    "href": "join_the_centre.html#complete-the-expression-of-interest-form",
+    "title": "CATER",
+    "section": "Complete the Expression of Interest Form",
+    "text": "Complete the Expression of Interest Form\nThe form collects basic membership details, areas of interest, methodological strengths, a profile image, and consent preferences. Submitting the form does not automatically add a person to the members page. Expressions of interest will be reviewed to ensure alignment with the centre’s remit."
   },
   {
     "objectID": "index.html",
@@ -182,25 +203,60 @@
     "text": "Capacity Building\nCATER supports the development of methodological confidence, research capability, and publishing capacity across career stages."
   },
   {
-    "objectID": "join_the_centre.html",
-    "href": "join_the_centre.html",
-    "title": "CATER",
+    "objectID": "instruments/rif_mrt.html",
+    "href": "instruments/rif_mrt.html",
+    "title": "RIF Mental Rotation Test",
     "section": "",
-    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
+    "text": "A validated, browser-based instrument for assessing the mental rotation factor of spatial ability in upper primary and lower secondary level education."
   },
   {
-    "objectID": "join_the_centre.html#join-the-centre",
-    "href": "join_the_centre.html#join-the-centre",
-    "title": "CATER",
+    "objectID": "instruments/rif_mrt.html#rif-mental-rotation-test",
+    "href": "instruments/rif_mrt.html#rif-mental-rotation-test",
+    "title": "RIF Mental Rotation Test",
     "section": "",
-    "text": "Express interest in becoming a CATER member and contributing to the advancement of technology education research."
+    "text": "A validated, browser-based instrument for assessing the mental rotation factor of spatial ability in upper primary and lower secondary level education."
   },
   {
-    "objectID": "join_the_centre.html#complete-the-expression-of-interest-form",
-    "href": "join_the_centre.html#complete-the-expression-of-interest-form",
+    "objectID": "instruments/rif_mrt.html#about-the-instrument",
+    "href": "instruments/rif_mrt.html#about-the-instrument",
+    "title": "RIF Mental Rotation Test",
+    "section": "About the instrument",
+    "text": "About the instrument\nThe RIF Mental Rotation Test is a validated (publication in preparation), browser-based psychometric instrument designed to assess the mental rotation factor of spatial ability.\nDeveloped collaboratively to support spatial ability research in primary and lower-secondary education, the tool provides a way to measure an individual’s capacity to mentally rotate 3D objects. To use the test, researchers should first give participants a unique id number, and once all participants have completed the test, send a list of those id’s to either Günter Maresch or Jeffrey Buckley requesting the data.\nResearchers can direct participants to a brief practice version to familiarise them with the interface and question format before administering the full version."
+  },
+  {
+    "objectID": "instruments/rif_mrt.html#related-resources",
+    "href": "instruments/rif_mrt.html#related-resources",
+    "title": "RIF Mental Rotation Test",
+    "section": "Related resources",
+    "text": "Related resources\nThe test operates within the broader RIF Spatial Thinking ecosystem. The links below provide access to additional spatial tasks, theoretical foundations, and the full training platform.\n\n\n\nResource\nDescription\n\n\n\n\n Geometriedidaktik Homepage\nThe central hub for Günter Maresch’s spatial ability and geometry education resources.\n\n\n RIF Spatial Training Platform\nAccess to the full suite of tasks, exercises, and materials for promoting spatial thinking."
+  },
+  {
+    "objectID": "instruments/rif_mrt.html#related-publications",
+    "href": "instruments/rif_mrt.html#related-publications",
+    "title": "RIF Mental Rotation Test",
+    "section": "Related publications",
+    "text": "Related publications\nAn article describing the validation process is currently in development, and once published will be listed here."
+  },
+  {
+    "objectID": "measurement_instruments.html",
+    "href": "measurement_instruments.html",
     "title": "CATER",
-    "section": "Complete the Expression of Interest Form",
-    "text": "Complete the Expression of Interest Form\nThe form collects basic membership details, areas of interest, methodological strengths, a profile image, and consent preferences. Submitting the form does not automatically add a person to the members page. Expressions of interest will be reviewed to ensure alignment with the centre’s remit."
+    "section": "",
+    "text": "Measurement instruments supporting data collection in technology education research."
+  },
+  {
+    "objectID": "measurement_instruments.html#measurement-instruments",
+    "href": "measurement_instruments.html#measurement-instruments",
+    "title": "CATER",
+    "section": "",
+    "text": "Measurement instruments supporting data collection in technology education research."
+  },
+  {
+    "objectID": "measurement_instruments.html#measurements-instruments",
+    "href": "measurement_instruments.html#measurements-instruments",
+    "title": "CATER",
+    "section": "Measurements Instruments",
+    "text": "Measurements Instruments\n\nThe instruments listed here were developed either by, or in collaboration with, CATER members to support research, analysis, and methodological development in technology education and related fields.\n\n\n\n  \n\n\nRIF Mental Rotation Test\n\n\nDeveloped by Jeffrey Buckley in collaboration with Günter Maresch, Leonie Huttegger, and Hannah Wallinger at RIF Spatial Thinking\n\n\nA validated, browser-based instrument for assessing the mental rotation factor of spatial ability."
   },
   {
     "objectID": "the_concept.html",
